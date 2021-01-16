@@ -13,6 +13,10 @@ It is not intended to link to WhatsApp and isn't responsive so should only relia
 
 ## Learning/Research Resources Used
 
+## Tools 
+
+[Google Fonts](https://fonts.google.com/)
+
 
 ## Demo
 
