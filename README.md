@@ -8,19 +8,10 @@ To produce a semi-functional frontpage of WhatsApp to practice and improve HTML,
 
 It is not intended to link to WhatsApp and isn't responsive so should only reliably render on desktops.
 
-### Challenges
-
-
-
-## Learning/Research Resources Used
-
 ## Tools 
 
 [Google Fonts](https://fonts.google.com/)
 
-
 ## Demo
 
-```
-NOT AVAILABLE
-```
+[GitHub Pages](https://jamiepmortimer.github.io/fpc-Whatsapp/)
